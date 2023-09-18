@@ -1,0 +1,4 @@
+zhangsan,/pay,1000
+lisi,/home,3000
+wangwu,/cart,4000
+zhaoliu,/detail,5000

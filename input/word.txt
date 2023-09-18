@@ -1,0 +1,4 @@
+world test java
+flume java world
+stream flink flink
+stream java java
